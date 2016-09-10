@@ -1,4 +1,8 @@
-# Haskell Dependency Injection
+# See this project instead: [Wizek/hs-di](https://github.com/Wizek/hs-di)
+
+Which is a more polished and packaged version of the most successful experiment contained in this repository.
+
+## Haskell Dependency Injection
 
 [Main10.hs](Main10.hs) is the most promising at the moment.
 In fact, apart from some known issues, it seems to work quite well.
